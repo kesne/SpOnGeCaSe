@@ -1,0 +1,17 @@
+{
+  "name": "spongecase",
+  "version": "1.0.0",
+  "description": "Make you keyboard super fucked up.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Jordan Gensler <jordangens@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "osx-global-keypress": "0.0.7",
+    "robotjs": "^0.5.1"
+  }
+}
